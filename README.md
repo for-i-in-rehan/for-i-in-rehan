@@ -5,7 +5,7 @@
 <!-- about me -->
 
   <h1>About Me </h1>
-  <p>I'm a software engineer & student based in the UK. I'm a big fan of the technology, and I'm always looking to learn new things.</p>
+  <p>I'm a student based in the UK. I'm a big fan of the technology and gaming, and I'm always looking to learn new things.</p>
   <p>I'm currently studying at Aston University, studying Computer Science.</p>
   <p>I am currently learning Java & JS</p>
   <p>Feel free to email me at: <a href="mailto:rehanhh285@gmail.com">rehanhh285@gmail.com  📧</a></p>
