@@ -37,13 +37,6 @@
      <br>
   </div>    
 </details>
-<!-- graph summary -->
-<details>
-  <summary>📈 Commit Graph</summary>
-  <br/>
-  <h2 align="center"> Activity: </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="rehan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=for-i-in-rehan&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
 
 
 <!-- Footer / credits -->
