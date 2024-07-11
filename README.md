@@ -1,4 +1,4 @@
-<h2 align="center">Hi! my name is Rehan Hussain and i'm a Software Engineer student from the Birmingham, UK</h2>
+<h2 align="center">Hi! my name is Rehan Hussain and i'm a Software Engineer from the Birmingham, UK</h2>
 
 ###
 
