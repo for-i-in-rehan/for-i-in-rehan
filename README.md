@@ -55,6 +55,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
 </div>
 
+
+
+<h3 align="center">Contributions</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=for-i-in-rehan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 ###
 
 <div align="center">
@@ -70,16 +81,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/for-i-in-rehan/count.svg?"  />
-</div>
-
-###
-
-<h3 align="center">Contributions</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=for-i-in-rehan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
