@@ -67,8 +67,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/for-i-in-rehan/for-i-in-rehan/output/snake.svg" alt="Snake animation" />
-
-###
